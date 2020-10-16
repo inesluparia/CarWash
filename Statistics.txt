@@ -1,0 +1,5 @@
+Hello Admin! these are the statistics from today
+
+Printing statistics...
+Total Wash Types: 1
+Total sales: 64kr.
